@@ -6,9 +6,9 @@ import QuickPractice from "./lessons/quick-practice";
 function App() {
   return (
     <>
-    <JSX />
-    {/* <JSVariables />
-    <QuickPractice /> */}
+    {/* <JSX /> */}
+    {/* <JSVariables /> */}
+    {/* <QuickPractice /> */}
     </>
   );
 }
