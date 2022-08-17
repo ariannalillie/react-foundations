@@ -3,15 +3,15 @@
 // Add your name to the empty string on line #7
 // Print the name variable in the h1 element
 
-// function App() {
+function QuickPractice() {
 //   const name = '';
 
-//   return (
-//     <div>
-//       My name is:
-//       <h1></h1>
-//     </div>
-//   );
-// }
+  return (
+    <div>
+      My name is:
+      {/* <h1></h1> */}
+    </div>
+  );
+}
 
-// export default App;
+export default QuickPractice;
