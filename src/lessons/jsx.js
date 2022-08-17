@@ -1,4 +1,5 @@
 // JSX allows us to write HTML elements in JavaScript and place them in the DOM
+// Lets us add html elements in our React function 
 
 export const JSX = () => {
   return (
