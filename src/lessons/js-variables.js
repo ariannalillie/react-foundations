@@ -4,7 +4,7 @@
 // To try this create a buttonText variable and add that variable inside of a 
 // button element 
 
-export const JSVariables = () => {
+function JSVariables() {
   const message = "Hello";
 
   return (
@@ -13,3 +13,5 @@ export const JSVariables = () => {
     </div>
   );
 };
+
+export default JSVariables;
